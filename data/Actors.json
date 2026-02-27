@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Ben","characterIndex":0,"characterName":"Ben","classId":5,"equips":[5,0,0,3,0],"faceIndex":0,"faceName":"Ben","traits":[],"initialLevel":10,"maxLevel":99,"name":"Ben","nickname":"","note":"","profile":"A powerful person who has faced lots of challenges \nbut has surivied them all and is one of the strongest "},
+{"id":2,"battlerName":"Phillip","characterIndex":0,"characterName":"Phillip","classId":6,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"Phillip","traits":[],"initialLevel":30,"maxLevel":99,"name":"Phillip","nickname":"Dad","note":"","profile":"A strong warrior that works for the \nAncient Heroes that is Ben's dad."},
+{"id":3,"battlerName":"Liam","characterIndex":0,"characterName":"Liam","classId":1,"equips":[1,0,0,3,4],"faceIndex":0,"faceName":"Liam","traits":[],"initialLevel":40,"maxLevel":99,"name":"Liam","nickname":"Agent Liam","note":"","profile":"A powerful hero stronger than the rest. \nBen is yet to be stronger than him."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
