@@ -6,8 +6,8 @@ null,
 {"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
 {"id":5,"atypeId":4,"description":"A very power armor made \nout of titianium that is owned by the Agent Heroes.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armor","note":"","params":[0,0,0,100,0,0,0,0],"price":0},
 {"id":6,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":288,"name":"King Snake Skin","note":"","params":[0,0,0,30,0,0,0,0],"price":0},
-{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":8,"description":"Glasses that magically makes you very aware of \nattacks.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":151,"name":"Ancient Hero Glasses","note":"","params":[0,0,0,0,0,0,100,0],"price":0},
+{"id":8,"atypeId":8,"description":"A cape that is very powerful and if hit can bounce\nattacks off.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Ancient Hero Cape","note":"","params":[0,0,0,30,0,0,0,100],"price":0},
 {"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
